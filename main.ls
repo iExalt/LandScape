@@ -3,3 +3,4 @@
   plan: t1.small.x86
   operating_system: ubuntu_18_04
   ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKmrBwsfCZbesEE75ZImJPNgnwzn/9Zk+O0nSTLOJQPUV+VuqrBenHMCq6NqIhLTdVhvftf0EFJVX7JpeLsGyGmkzFinE+zP40z9xOUozcYQoDGj3ibdr22mBh2nVe1RjKejRKYKJT5TS6Yn0O91f0XPVGB/y6v2gqEeEm7W/mmed15XdeWjXrlV9jaaJKbUJqGUy4srs8ynQl3nCTofAzxiX+PErNGpAKHIahg/iixeww/D7m/fwKkH/MhOtlSQVdjE5Tm6RiIbFtpfgBLtoAoq4yTe2oMCof3gtaF+Y6CvX//INh/ocUyhL0umiRIG25mKMrcqeypiQtni7kJKi7 cklliaw@edu.uwaterloo.ca
+  # project_ssh_keys: 546350ab-560c-4079-89b3-b53c7c5e6601

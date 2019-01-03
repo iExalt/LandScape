@@ -1,0 +1,5 @@
+facility: ewr1
+hostname: landscape-test-device
+id: 99e7b2b7-8495-4576-a80d-ff31efbac9a6
+operating_system: ubuntu_18_04
+plan: t1.small.x86
